@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sidvika 👋
 
-<!--
-**sidvikareddy/sidvikareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌿 Learning **Java**
+- 💻 Budding developer & curious learner
+- 💃 Love dancing and engaging in activities that makes me to be peaceful 🕊️
 
-Here are some ideas to get you started:
+📧 Email: sidvikapannala@gmail.com 
+🔗 LinkedIn: www.linkedin.com/in/pannala-sidvika-9b0ab52b9 
+🐙 GitHub: https://github.com/sidvikareddy 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills: Java | Python | HTML | CSS | CyberSecurity 
+📍 Hyderabad, India
+
+🧠 Learning by building real-world projects
